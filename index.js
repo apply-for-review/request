@@ -1,3 +1,3 @@
 setTimeout(function() {
-    window.location.href = 'https://t.ly/6Cxjv';
+    window.location.href = 'https://t.ly/9cn9Y';
 }, 4000);
